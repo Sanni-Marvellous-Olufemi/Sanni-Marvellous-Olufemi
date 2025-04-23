@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Heyy!+I'm+Marvellous+👋)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Heyy+There+I'm+Marvellous+👋)
 
 Driven by purpose, I’m passionate about building tech solutions that empower communities and uplift small businesses in Africa. From vision-testing web apps to business empowerment platforms, my mission is to create tools that truly make an impact.
 
