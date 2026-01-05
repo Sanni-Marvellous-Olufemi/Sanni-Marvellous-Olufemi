@@ -8,7 +8,7 @@ Outside of coding, I enjoy leading initiatives, designing intuitive interfaces, 
 
 ## 🚀 About Me
 - 🎓 CS Major @ Grambling State University | GPA: 4.0
-- 🌍 Founder of **BizBoost Africa**, an idea to empower African entrepreneurs
+- 🧑🏽‍💻 SWE Intern @XYZ
 - 👨🏽‍💻 Co-founder of a **Vision Test App** with Flask, AI analysis, and QR onboarding
 - 📊 Currently improving my DSA, frontend animations, and system design skills
 - 💡 Interested in internships at the intersection of AI, healthcare, and product dev
