@@ -34,9 +34,9 @@ Outside of coding, I enjoy leading initiatives, designing intuitive interfaces, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Stats (Last Year)](https://github-readme-stats.vercel.app/api?username=Sanni-Marvellous-Olufemi&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
-![Stats (All Time)](https://github-readme-stats.vercel.app/api?username=Sanni-Marvellous-Olufemi&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanni-Marvellous-Olufemi&show_icons=true&theme=radical&count_private=true&hide_rank=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Marvellous-Olufemi&layout=compact&theme=radical&langs_count=10&cache_seconds=86400)
+
 
 ---
 
