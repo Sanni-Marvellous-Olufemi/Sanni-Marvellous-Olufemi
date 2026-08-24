@@ -8,7 +8,7 @@ Outside of coding, I enjoy leading initiatives, designing intuitive interfaces, 
 
 ## 🚀 About Me
 - 🎓 CS Major @ Grambling State University | GPA: 4.0
-- 🧑🏽‍💻 SWE Intern @XYZ
+- 🧑🏽‍💻 Prev SWE Intern @HubSpot
 - 📊 Currently improving my DSA, frontend animations, and system design skills
 - 💡 Interested in internships at the intersection of AI, healthcare, and product dev
 - 🧠 Fun fact: I once used OpenAI + Notion + Flask to turn PDFs into audio summaries
@@ -34,8 +34,8 @@ Outside of coding, I enjoy leading initiatives, designing intuitive interfaces, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanni-Marvellous-Olufemi&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Marvellous-Olufemi&layout=compact&theme=radical&langs_count=10&cache_seconds=86400)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanni-Marvellous-Olufemi&theme=default)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Sanni-Marvellous-Olufemi&layout=compact&theme=radical&langs_count=10)
 
 
 ---
